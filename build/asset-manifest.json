@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/food-market/static/css/main.cfe96730.chunk.css",
+    "main.js": "/food-market/static/js/main.ad6da7d6.chunk.js",
+    "main.js.map": "/food-market/static/js/main.ad6da7d6.chunk.js.map",
+    "runtime-main.js": "/food-market/static/js/runtime-main.04d74845.js",
+    "runtime-main.js.map": "/food-market/static/js/runtime-main.04d74845.js.map",
+    "static/js/2.f6ab9e5d.chunk.js": "/food-market/static/js/2.f6ab9e5d.chunk.js",
+    "static/js/2.f6ab9e5d.chunk.js.map": "/food-market/static/js/2.f6ab9e5d.chunk.js.map",
+    "index.html": "/food-market/index.html",
+    "static/css/main.cfe96730.chunk.css.map": "/food-market/static/css/main.cfe96730.chunk.css.map",
+    "static/js/2.f6ab9e5d.chunk.js.LICENSE.txt": "/food-market/static/js/2.f6ab9e5d.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/food-market/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04d74845.js",
+    "static/js/2.f6ab9e5d.chunk.js",
+    "static/css/main.cfe96730.chunk.css",
+    "static/js/main.ad6da7d6.chunk.js"
+  ]
+}
